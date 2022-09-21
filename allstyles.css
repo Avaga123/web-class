@@ -1,0 +1,17 @@
+h1{
+    text-align: center;
+    color: purple;
+    text-decoration: wavy;
+}
+body{
+    background-image: url(black-and-white-eagle-logo_650914.jpg);
+}
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: chocolate;
+}
+ol{color: silver;
+}
+a{
+    color: yellow;
+}
